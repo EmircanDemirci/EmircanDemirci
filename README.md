@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Emircan</h1>
 <h3 align="center">A junior cybersecurity researcher from Turkiye.</h3>
 
-- 🔭 I’m currently working on [keylogger malware called VenLogger.](https://github.com/EmircanDemirci/python-projects-for-cybersecurity)
-
-- 🌱 I’m currently learning **malwares,vulnerabilities**
+- 🌱 I’m currently learning **network,web**
 
 - 📝 I regularly write articles on [https://medium.com/@emircandemirci12](https://medium.com/@emircandemirci12)
 
-- 💬 Ask me about **react,express**
+- 💬 Ask me about **python,django,express**
 
 - 📫 How to reach me **emircandemirci12@gmail.com**
 
