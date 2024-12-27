@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emircan</h1>
 <h3 align="center">A junior cybersecurity researcher from Turkiye.</h3>
-<img src="https://tryhackme-badges.s3.amazonaws.com/EmircanDemirci.png" alt="Your Image Badge" />
+<img align="center" src="https://tryhackme-badges.s3.amazonaws.com/EmircanDemirci.png" alt="Your Image Badge" />
 
 - 🌱 I’m currently learning **network,web**
 
