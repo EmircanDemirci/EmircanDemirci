@@ -2,7 +2,7 @@
 <h3 align="center">A junior cybersecurity researcher from Turkiye.</h3>
 <img align="center" src="https://tryhackme-badges.s3.amazonaws.com/EmircanDemirci.png" alt="Your Image Badge" />
 
-- 🌱 I’m currently learning **network,web and iot**
+- 🌱 I’m currently learning **network,web and soc**
 
 - 📝 I regularly write articles on [https://medium.com/@emircandemirci12](https://medium.com/@emircandemirci12)
 
